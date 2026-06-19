@@ -1,0 +1,501 @@
+date,product,production_line,production_volume,defect_count,defect_type,temperature,defect_rate
+2024-01-01,Moteur V6,Ligne A,269,17,Rayure,24.0,0.0632
+2024-01-02,Moteur V6,Ligne C,269,5,Calibrage,29.4,0.0186
+2024-01-02,Moteur V6,Ligne A,139,16,Calibrage,18.7,0.1151
+2024-01-02,Direction,Ligne B,136,14,Calibrage,25.5,0.1029
+2024-01-02,Transmission,Ligne C,188,10,Déformation,22.2,0.0532
+2024-01-02,Moteur V6,Ligne A,177,3,Déformation,40.9,0.0169
+2024-01-03,Suspension,Ligne A,266,29,Calibrage,21.4,0.109
+2024-01-03,Moteur V6,Ligne C,155,11,Calibrage,23.2,0.071
+2024-01-03,Moteur V6,Ligne C,138,9,Aucun,41.1,0.0652
+2024-01-03,Freins,Ligne B,196,20,Déformation,22.4,0.102
+2024-01-03,Transmission,Ligne C,148,2,Calibrage,35.1,0.0135
+2024-01-04,Transmission,Ligne A,198,12,Déformation,44.7,0.0606
+2024-01-05,Direction,Ligne A,255,10,Aucun,24.2,0.0392
+2024-01-05,Suspension,Ligne B,148,2,Rayure,42.7,0.0135
+2024-01-06,Suspension,Ligne A,247,15,Assemblage,41.9,0.0607
+2024-01-07,Freins,Ligne A,147,4,Rayure,38.1,0.0272
+2024-01-08,Suspension,Ligne C,229,13,Calibrage,28.8,0.0568
+2024-01-08,Transmission,Ligne C,206,2,Aucun,41.2,0.0097
+2024-01-08,Transmission,Ligne C,188,19,Aucun,28.4,0.1011
+2024-01-09,Freins,Ligne C,144,17,Aucun,36.4,0.1181
+2024-01-09,Direction,Ligne B,276,21,Aucun,25.9,0.0761
+2024-01-09,Freins,Ligne A,264,16,Calibrage,38.6,0.0606
+2024-01-10,Moteur V6,Ligne C,156,16,Calibrage,23.4,0.1026
+2024-01-10,Transmission,Ligne C,279,33,Aucun,34.2,0.1183
+2024-01-10,Moteur V6,Ligne A,172,9,Rayure,19.6,0.0523
+2024-01-11,Moteur V6,Ligne A,267,31,Aucun,44.4,0.1161
+2024-01-12,Transmission,Ligne A,248,15,Calibrage,22.5,0.0605
+2024-01-13,Direction,Ligne B,134,6,Déformation,28.8,0.0448
+2024-01-14,Suspension,Ligne B,212,14,Aucun,24.7,0.066
+2024-01-14,Suspension,Ligne A,230,17,Rayure,33.9,0.0739
+2024-01-14,Moteur V6,Ligne C,241,1,Rayure,19.8,0.0041
+2024-01-14,Suspension,Ligne A,211,7,Déformation,36.1,0.0332
+2024-01-14,Direction,Ligne A,265,30,Rayure,39.2,0.1132
+2024-01-14,Transmission,Ligne A,104,10,Assemblage,27.6,0.0962
+2024-01-14,Freins,Ligne C,93,10,Aucun,19.6,0.1075
+2024-01-15,Suspension,Ligne A,143,6,Rayure,32.5,0.042
+2024-01-15,Freins,Ligne A,151,14,Rayure,41.6,0.0927
+2024-01-15,Freins,Ligne C,105,0,Aucun,35.6,0.0
+2024-01-16,Moteur V6,Ligne A,272,15,Rayure,29.0,0.0551
+2024-01-16,Transmission,Ligne B,95,2,Assemblage,18.1,0.0211
+2024-01-16,Suspension,Ligne B,153,13,Calibrage,35.9,0.085
+2024-01-16,Transmission,Ligne A,155,6,Aucun,33.6,0.0387
+2024-01-17,Moteur V6,Ligne C,160,1,Aucun,33.8,0.0063
+2024-01-18,Direction,Ligne A,94,8,Aucun,41.0,0.0851
+2024-01-18,Direction,Ligne A,252,27,Rayure,28.9,0.1071
+2024-01-19,Transmission,Ligne C,232,1,Calibrage,20.2,0.0043
+2024-01-20,Direction,Ligne C,213,10,Déformation,23.5,0.0469
+2024-01-21,Suspension,Ligne A,147,12,Rayure,36.1,0.0816
+2024-01-21,Freins,Ligne B,272,4,Aucun,30.4,0.0147
+2024-01-22,Moteur V6,Ligne A,217,6,Calibrage,25.2,0.0276
+2024-01-22,Moteur V6,Ligne A,174,9,Rayure,29.8,0.0517
+2024-01-23,Suspension,Ligne C,286,33,Aucun,36.0,0.1154
+2024-01-24,Suspension,Ligne C,106,2,Déformation,21.1,0.0189
+2024-01-24,Direction,Ligne A,149,9,Calibrage,23.7,0.0604
+2024-01-24,Transmission,Ligne C,242,27,Déformation,31.6,0.1116
+2024-01-24,Moteur V6,Ligne A,242,13,Déformation,19.2,0.0537
+2024-01-24,Transmission,Ligne C,147,5,Assemblage,32.9,0.034
+2024-01-24,Direction,Ligne A,108,1,Rayure,32.7,0.0093
+2024-01-24,Direction,Ligne C,117,6,Rayure,19.1,0.0513
+2024-01-24,Moteur V6,Ligne B,133,7,Aucun,27.5,0.0526
+2024-01-25,Freins,Ligne C,271,9,Rayure,41.3,0.0332
+2024-01-25,Freins,Ligne A,125,10,Assemblage,39.7,0.08
+2024-01-26,Transmission,Ligne B,120,12,Aucun,28.3,0.1
+2024-01-26,Freins,Ligne A,131,14,Déformation,26.2,0.1069
+2024-01-26,Transmission,Ligne A,248,6,Assemblage,26.9,0.0242
+2024-01-26,Suspension,Ligne B,244,16,Assemblage,36.3,0.0656
+2024-01-27,Suspension,Ligne A,109,4,Rayure,33.7,0.0367
+2024-01-27,Moteur V6,Ligne A,232,13,Déformation,37.7,0.056
+2024-01-27,Freins,Ligne C,210,3,Assemblage,42.3,0.0143
+2024-01-27,Suspension,Ligne A,261,27,Aucun,32.0,0.1034
+2024-01-28,Transmission,Ligne B,190,2,Déformation,34.8,0.0105
+2024-01-29,Moteur V6,Ligne C,156,16,Déformation,36.0,0.1026
+2024-01-29,Freins,Ligne C,155,17,Rayure,23.2,0.1097
+2024-01-30,Freins,Ligne C,271,11,Calibrage,33.4,0.0406
+2024-01-30,Direction,Ligne A,157,9,Rayure,29.6,0.0573
+2024-01-31,Direction,Ligne C,162,14,Assemblage,29.9,0.0864
+2024-01-31,Direction,Ligne B,283,10,Aucun,25.7,0.0353
+2024-02-01,Direction,Ligne B,103,12,Rayure,36.2,0.1165
+2024-02-01,Transmission,Ligne A,86,0,Aucun,24.6,0.0
+2024-02-01,Direction,Ligne A,196,13,Calibrage,23.2,0.0663
+2024-02-02,Freins,Ligne B,182,7,Rayure,35.7,0.0385
+2024-02-02,Moteur V6,Ligne B,136,5,Calibrage,30.5,0.0368
+2024-02-03,Transmission,Ligne A,196,4,Assemblage,36.0,0.0204
+2024-02-04,Direction,Ligne B,273,28,Calibrage,40.0,0.1026
+2024-02-05,Freins,Ligne C,194,5,Assemblage,30.2,0.0258
+2024-02-05,Suspension,Ligne C,204,20,Rayure,25.4,0.098
+2024-02-05,Suspension,Ligne A,149,10,Déformation,42.1,0.0671
+2024-02-05,Transmission,Ligne A,139,12,Rayure,37.1,0.0863
+2024-02-05,Freins,Ligne B,164,17,Assemblage,29.2,0.1037
+2024-02-05,Freins,Ligne B,277,1,Calibrage,28.3,0.0036
+2024-02-05,Suspension,Ligne B,272,24,Assemblage,32.5,0.0882
+2024-02-06,Direction,Ligne C,136,15,Rayure,25.4,0.1103
+2024-02-06,Moteur V6,Ligne B,166,12,Rayure,40.7,0.0723
+2024-02-06,Direction,Ligne C,86,6,Calibrage,33.2,0.0698
+2024-02-06,Moteur V6,Ligne C,189,4,Assemblage,22.9,0.0212
+2024-02-06,Freins,Ligne B,134,14,Déformation,27.1,0.1045
+2024-02-06,Suspension,Ligne B,144,2,Assemblage,18.5,0.0139
+2024-02-07,Moteur V6,Ligne B,137,2,Aucun,38.4,0.0146
+2024-02-07,Transmission,Ligne A,239,4,Rayure,21.4,0.0167
+2024-02-08,Moteur V6,Ligne C,135,14,Déformation,38.7,0.1037
+2024-02-08,Direction,Ligne C,271,7,Rayure,44.0,0.0258
+2024-02-08,Direction,Ligne A,159,18,Assemblage,28.7,0.1132
+2024-02-09,Transmission,Ligne A,231,22,Rayure,20.8,0.0952
+2024-02-09,Direction,Ligne A,283,2,Déformation,32.4,0.0071
+2024-02-10,Suspension,Ligne A,209,20,Déformation,18.3,0.0957
+2024-02-10,Freins,Ligne A,190,11,Assemblage,37.1,0.0579
+2024-02-10,Transmission,Ligne C,213,20,Déformation,34.6,0.0939
+2024-02-11,Freins,Ligne B,191,18,Déformation,26.7,0.0942
+2024-02-11,Moteur V6,Ligne B,195,7,Assemblage,33.4,0.0359
+2024-02-12,Freins,Ligne B,87,7,Déformation,22.9,0.0805
+2024-02-12,Suspension,Ligne B,167,8,Calibrage,36.9,0.0479
+2024-02-12,Direction,Ligne A,212,6,Aucun,24.5,0.0283
+2024-02-12,Freins,Ligne C,274,15,Assemblage,35.4,0.0547
+2024-02-12,Freins,Ligne A,103,4,Rayure,28.9,0.0388
+2024-02-12,Suspension,Ligne C,228,11,Assemblage,32.9,0.0482
+2024-02-12,Freins,Ligne C,220,10,Déformation,37.0,0.0455
+2024-02-12,Suspension,Ligne B,139,3,Rayure,26.5,0.0216
+2024-02-13,Direction,Ligne C,127,6,Rayure,37.9,0.0472
+2024-02-13,Direction,Ligne C,232,9,Aucun,40.5,0.0388
+2024-02-13,Transmission,Ligne B,125,9,Aucun,37.1,0.072
+2024-02-13,Suspension,Ligne A,93,8,Déformation,36.8,0.086
+2024-02-13,Freins,Ligne A,83,9,Déformation,30.7,0.1084
+2024-02-13,Suspension,Ligne A,93,4,Assemblage,21.1,0.043
+2024-02-13,Freins,Ligne B,98,9,Aucun,22.1,0.0918
+2024-02-14,Suspension,Ligne A,143,3,Calibrage,38.6,0.021
+2024-02-15,Direction,Ligne C,137,16,Assemblage,30.2,0.1168
+2024-02-15,Suspension,Ligne C,189,9,Calibrage,34.8,0.0476
+2024-02-16,Moteur V6,Ligne A,240,6,Déformation,35.8,0.025
+2024-02-16,Transmission,Ligne A,221,2,Rayure,18.1,0.009
+2024-02-16,Direction,Ligne B,154,1,Rayure,25.8,0.0065
+2024-02-16,Freins,Ligne A,255,7,Déformation,39.3,0.0275
+2024-02-17,Direction,Ligne C,285,12,Assemblage,21.1,0.0421
+2024-02-17,Transmission,Ligne B,291,9,Aucun,19.6,0.0309
+2024-02-17,Direction,Ligne C,291,18,Assemblage,21.4,0.0619
+2024-02-18,Suspension,Ligne C,183,8,Calibrage,32.6,0.0437
+2024-02-18,Moteur V6,Ligne C,90,6,Déformation,34.3,0.0667
+2024-02-18,Moteur V6,Ligne A,252,26,Calibrage,33.9,0.1032
+2024-02-18,Suspension,Ligne C,90,2,Assemblage,32.0,0.0222
+2024-02-18,Suspension,Ligne A,229,13,Assemblage,44.2,0.0568
+2024-02-18,Suspension,Ligne B,165,10,Aucun,41.2,0.0606
+2024-02-18,Freins,Ligne C,206,9,Assemblage,40.0,0.0437
+2024-02-19,Moteur V6,Ligne B,102,5,Déformation,26.7,0.049
+2024-02-19,Direction,Ligne A,248,27,Calibrage,30.5,0.1089
+2024-02-19,Transmission,Ligne C,172,19,Assemblage,34.9,0.1105
+2024-02-19,Transmission,Ligne B,220,4,Déformation,29.8,0.0182
+2024-02-20,Freins,Ligne A,87,10,Calibrage,39.6,0.1149
+2024-02-21,Transmission,Ligne B,221,0,Aucun,32.9,0.0
+2024-02-21,Transmission,Ligne A,198,3,Rayure,31.5,0.0152
+2024-02-22,Suspension,Ligne C,260,17,Assemblage,40.5,0.0654
+2024-02-22,Transmission,Ligne B,221,4,Assemblage,23.1,0.0181
+2024-02-23,Direction,Ligne C,114,13,Aucun,25.5,0.114
+2024-02-23,Suspension,Ligne C,148,0,Aucun,25.6,0.0
+2024-02-23,Direction,Ligne C,248,15,Rayure,30.1,0.0605
+2024-02-23,Suspension,Ligne B,221,24,Calibrage,28.2,0.1086
+2024-02-23,Transmission,Ligne C,141,12,Rayure,41.1,0.0851
+2024-02-23,Moteur V6,Ligne B,270,30,Assemblage,28.4,0.1111
+2024-02-24,Transmission,Ligne B,89,2,Calibrage,44.1,0.0225
+2024-02-24,Moteur V6,Ligne B,105,8,Assemblage,18.4,0.0762
+2024-02-24,Freins,Ligne C,119,1,Assemblage,39.1,0.0084
+2024-02-24,Suspension,Ligne C,257,12,Aucun,41.0,0.0467
+2024-02-25,Direction,Ligne B,161,15,Calibrage,19.0,0.0932
+2024-02-25,Transmission,Ligne C,255,29,Déformation,44.9,0.1137
+2024-02-26,Moteur V6,Ligne B,105,12,Aucun,30.0,0.1143
+2024-02-27,Suspension,Ligne A,91,5,Aucun,25.9,0.0549
+2024-02-27,Freins,Ligne A,142,16,Assemblage,33.3,0.1127
+2024-02-27,Transmission,Ligne A,100,9,Assemblage,34.7,0.09
+2024-02-27,Freins,Ligne C,116,3,Assemblage,35.2,0.0259
+2024-02-27,Suspension,Ligne C,82,7,Déformation,36.3,0.0854
+2024-02-27,Moteur V6,Ligne B,168,18,Déformation,35.3,0.1071
+2024-02-27,Suspension,Ligne B,296,19,Rayure,45.0,0.0642
+2024-02-27,Moteur V6,Ligne A,177,18,Déformation,33.5,0.1017
+2024-02-28,Suspension,Ligne A,292,25,Déformation,18.2,0.0856
+2024-02-29,Moteur V6,Ligne C,270,31,Déformation,38.9,0.1148
+2024-02-29,Direction,Ligne B,136,6,Calibrage,24.8,0.0441
+2024-03-01,Transmission,Ligne C,104,10,Aucun,26.3,0.0962
+2024-03-01,Moteur V6,Ligne C,173,4,Aucun,42.6,0.0231
+2024-03-01,Freins,Ligne A,131,4,Calibrage,41.7,0.0305
+2024-03-01,Direction,Ligne C,149,5,Déformation,42.7,0.0336
+2024-03-01,Suspension,Ligne C,166,3,Assemblage,44.0,0.0181
+2024-03-01,Transmission,Ligne C,265,25,Calibrage,27.9,0.0943
+2024-03-01,Moteur V6,Ligne B,217,3,Assemblage,28.0,0.0138
+2024-03-02,Suspension,Ligne C,177,20,Déformation,20.9,0.113
+2024-03-02,Freins,Ligne A,238,28,Calibrage,26.9,0.1176
+2024-03-03,Transmission,Ligne C,96,10,Assemblage,42.6,0.1042
+2024-03-03,Freins,Ligne A,115,0,Aucun,43.5,0.0
+2024-03-03,Freins,Ligne A,104,3,Calibrage,21.7,0.0288
+2024-03-03,Suspension,Ligne C,270,26,Calibrage,38.0,0.0963
+2024-03-03,Freins,Ligne C,105,7,Calibrage,29.0,0.0667
+2024-03-03,Moteur V6,Ligne C,174,6,Assemblage,30.0,0.0345
+2024-03-03,Suspension,Ligne A,255,11,Calibrage,42.3,0.0431
+2024-03-04,Suspension,Ligne A,181,8,Rayure,44.1,0.0442
+2024-03-04,Moteur V6,Ligne C,134,0,Aucun,19.4,0.0
+2024-03-04,Transmission,Ligne A,281,13,Aucun,40.4,0.0463
+2024-03-05,Transmission,Ligne C,135,7,Déformation,38.9,0.0519
+2024-03-06,Moteur V6,Ligne B,299,9,Rayure,32.6,0.0301
+2024-03-06,Moteur V6,Ligne C,86,2,Aucun,27.7,0.0233
+2024-03-06,Direction,Ligne B,84,2,Déformation,19.4,0.0238
+2024-03-07,Freins,Ligne C,109,11,Aucun,30.9,0.1009
+2024-03-07,Direction,Ligne C,107,7,Calibrage,24.0,0.0654
+2024-03-08,Moteur V6,Ligne C,280,33,Déformation,30.4,0.1179
+2024-03-08,Moteur V6,Ligne B,296,25,Assemblage,36.5,0.0845
+2024-03-08,Freins,Ligne A,100,5,Calibrage,22.0,0.05
+2024-03-08,Suspension,Ligne C,242,18,Calibrage,37.2,0.0744
+2024-03-08,Direction,Ligne C,155,14,Calibrage,34.3,0.0903
+2024-03-08,Moteur V6,Ligne C,246,28,Calibrage,37.5,0.1138
+2024-03-08,Freins,Ligne B,138,13,Déformation,40.3,0.0942
+2024-03-08,Freins,Ligne C,104,5,Assemblage,26.4,0.0481
+2024-03-08,Suspension,Ligne A,255,29,Assemblage,19.8,0.1137
+2024-03-08,Moteur V6,Ligne B,104,11,Déformation,39.9,0.1058
+2024-03-09,Moteur V6,Ligne C,223,17,Déformation,36.1,0.0762
+2024-03-09,Suspension,Ligne C,272,27,Aucun,44.1,0.0993
+2024-03-10,Suspension,Ligne B,106,9,Calibrage,23.7,0.0849
+2024-03-11,Freins,Ligne A,296,6,Déformation,40.8,0.0203
+2024-03-11,Moteur V6,Ligne B,226,7,Assemblage,40.8,0.031
+2024-03-12,Direction,Ligne C,244,17,Aucun,34.4,0.0697
+2024-03-13,Suspension,Ligne A,126,8,Déformation,42.9,0.0635
+2024-03-13,Moteur V6,Ligne A,116,9,Assemblage,19.9,0.0776
+2024-03-14,Moteur V6,Ligne A,271,13,Assemblage,29.3,0.048
+2024-03-14,Transmission,Ligne B,159,10,Calibrage,34.1,0.0629
+2024-03-14,Transmission,Ligne A,273,3,Aucun,25.3,0.011
+2024-03-15,Freins,Ligne B,235,14,Assemblage,25.4,0.0596
+2024-03-16,Moteur V6,Ligne B,190,3,Déformation,36.3,0.0158
+2024-03-17,Freins,Ligne C,250,9,Aucun,24.0,0.036
+2024-03-18,Moteur V6,Ligne A,132,9,Rayure,38.7,0.0682
+2024-03-18,Suspension,Ligne B,110,0,Aucun,31.4,0.0
+2024-03-18,Transmission,Ligne A,177,17,Rayure,31.5,0.096
+2024-03-19,Suspension,Ligne A,181,1,Assemblage,18.5,0.0055
+2024-03-19,Suspension,Ligne C,189,18,Assemblage,37.2,0.0952
+2024-03-19,Suspension,Ligne A,183,0,Aucun,44.1,0.0
+2024-03-19,Direction,Ligne B,292,23,Aucun,29.8,0.0788
+2024-03-19,Transmission,Ligne B,230,12,Calibrage,20.1,0.0522
+2024-03-19,Suspension,Ligne A,165,5,Aucun,31.8,0.0303
+2024-03-19,Direction,Ligne C,129,11,Déformation,37.6,0.0853
+2024-03-20,Transmission,Ligne A,106,2,Déformation,23.3,0.0189
+2024-03-21,Transmission,Ligne C,99,2,Assemblage,30.5,0.0202
+2024-03-22,Direction,Ligne B,254,29,Calibrage,35.4,0.1142
+2024-03-23,Suspension,Ligne C,160,4,Assemblage,19.8,0.025
+2024-03-23,Suspension,Ligne B,231,1,Déformation,31.7,0.0043
+2024-03-23,Freins,Ligne B,89,0,Aucun,28.0,0.0
+2024-03-23,Moteur V6,Ligne C,298,5,Calibrage,34.0,0.0168
+2024-03-23,Freins,Ligne C,221,25,Aucun,30.1,0.1131
+2024-03-24,Transmission,Ligne B,234,15,Calibrage,22.1,0.0641
+2024-03-24,Freins,Ligne A,287,21,Aucun,31.6,0.0732
+2024-03-24,Moteur V6,Ligne A,261,28,Assemblage,32.1,0.1073
+2024-03-25,Transmission,Ligne B,175,9,Assemblage,29.0,0.0514
+2024-03-25,Direction,Ligne A,282,21,Aucun,26.9,0.0745
+2024-03-26,Freins,Ligne B,144,4,Déformation,20.2,0.0278
+2024-03-27,Transmission,Ligne B,159,12,Rayure,34.1,0.0755
+2024-03-27,Suspension,Ligne C,176,20,Déformation,40.0,0.1136
+2024-03-28,Direction,Ligne A,245,21,Assemblage,31.7,0.0857
+2024-03-28,Suspension,Ligne B,126,6,Déformation,43.6,0.0476
+2024-03-28,Transmission,Ligne A,115,2,Aucun,26.0,0.0174
+2024-03-28,Direction,Ligne C,293,33,Aucun,35.9,0.1126
+2024-03-29,Transmission,Ligne C,176,4,Rayure,22.9,0.0227
+2024-03-30,Direction,Ligne A,264,28,Aucun,29.1,0.1061
+2024-03-31,Transmission,Ligne B,236,9,Assemblage,24.3,0.0381
+2024-03-31,Suspension,Ligne B,293,12,Déformation,36.3,0.041
+2024-04-01,Freins,Ligne B,276,18,Assemblage,31.6,0.0652
+2024-04-01,Transmission,Ligne A,285,8,Déformation,19.4,0.0281
+2024-04-01,Suspension,Ligne C,106,11,Calibrage,41.0,0.1038
+2024-04-01,Moteur V6,Ligne A,149,14,Calibrage,22.0,0.094
+2024-04-01,Moteur V6,Ligne A,289,28,Déformation,43.1,0.0969
+2024-04-01,Moteur V6,Ligne B,208,11,Rayure,28.4,0.0529
+2024-04-01,Suspension,Ligne A,87,5,Aucun,40.7,0.0575
+2024-04-02,Suspension,Ligne A,115,0,Aucun,25.7,0.0
+2024-04-02,Transmission,Ligne C,200,14,Calibrage,18.1,0.07
+2024-04-02,Moteur V6,Ligne B,135,4,Calibrage,43.4,0.0296
+2024-04-03,Direction,Ligne B,108,12,Déformation,24.4,0.1111
+2024-04-03,Moteur V6,Ligne A,187,20,Calibrage,30.3,0.107
+2024-04-03,Freins,Ligne C,217,0,Aucun,35.1,0.0
+2024-04-04,Transmission,Ligne C,116,4,Assemblage,18.0,0.0345
+2024-04-04,Transmission,Ligne C,186,5,Aucun,32.1,0.0269
+2024-04-04,Moteur V6,Ligne C,219,16,Calibrage,33.0,0.0731
+2024-04-04,Freins,Ligne A,242,12,Déformation,24.8,0.0496
+2024-04-04,Suspension,Ligne A,168,7,Aucun,38.8,0.0417
+2024-04-05,Suspension,Ligne A,91,5,Calibrage,27.1,0.0549
+2024-04-06,Transmission,Ligne C,198,22,Assemblage,35.1,0.1111
+2024-04-06,Moteur V6,Ligne C,278,29,Aucun,25.9,0.1043
+2024-04-06,Transmission,Ligne A,160,9,Calibrage,28.8,0.0563
+2024-04-07,Freins,Ligne B,89,10,Rayure,25.7,0.1124
+2024-04-07,Suspension,Ligne B,111,12,Déformation,29.8,0.1081
+2024-04-07,Freins,Ligne B,166,5,Assemblage,36.7,0.0301
+2024-04-07,Direction,Ligne B,285,5,Assemblage,20.1,0.0175
+2024-04-08,Transmission,Ligne C,155,10,Aucun,20.2,0.0645
+2024-04-09,Suspension,Ligne B,194,19,Assemblage,22.5,0.0979
+2024-04-09,Suspension,Ligne B,90,5,Calibrage,45.0,0.0556
+2024-04-09,Moteur V6,Ligne A,251,20,Assemblage,27.8,0.0797
+2024-04-10,Transmission,Ligne A,116,13,Calibrage,36.3,0.1121
+2024-04-10,Moteur V6,Ligne A,97,3,Déformation,27.8,0.0309
+2024-04-11,Moteur V6,Ligne C,119,10,Assemblage,43.6,0.084
+2024-04-11,Freins,Ligne A,226,4,Calibrage,27.9,0.0177
+2024-04-11,Suspension,Ligne A,109,0,Aucun,37.9,0.0
+2024-04-11,Direction,Ligne B,223,3,Déformation,38.9,0.0135
+2024-04-12,Freins,Ligne A,236,9,Assemblage,23.4,0.0381
+2024-04-12,Moteur V6,Ligne B,124,14,Assemblage,44.9,0.1129
+2024-04-13,Suspension,Ligne C,168,2,Calibrage,32.6,0.0119
+2024-04-13,Transmission,Ligne C,261,11,Déformation,31.7,0.0421
+2024-04-13,Transmission,Ligne A,140,15,Aucun,27.7,0.1071
+2024-04-14,Suspension,Ligne B,285,8,Calibrage,41.9,0.0281
+2024-04-14,Suspension,Ligne B,263,30,Calibrage,29.1,0.1141
+2024-04-14,Direction,Ligne A,112,5,Aucun,30.1,0.0446
+2024-04-15,Direction,Ligne B,112,13,Calibrage,35.3,0.1161
+2024-04-15,Transmission,Ligne B,208,1,Aucun,32.0,0.0048
+2024-04-15,Transmission,Ligne A,162,7,Déformation,43.6,0.0432
+2024-04-16,Suspension,Ligne A,144,6,Calibrage,25.4,0.0417
+2024-04-17,Suspension,Ligne C,216,2,Calibrage,35.3,0.0093
+2024-04-18,Direction,Ligne A,123,10,Calibrage,37.5,0.0813
+2024-04-19,Suspension,Ligne C,90,0,Aucun,20.2,0.0
+2024-04-20,Direction,Ligne B,246,6,Calibrage,29.2,0.0244
+2024-04-21,Moteur V6,Ligne B,240,17,Déformation,35.3,0.0708
+2024-04-21,Freins,Ligne A,286,25,Déformation,30.2,0.0874
+2024-04-22,Moteur V6,Ligne A,192,13,Assemblage,30.5,0.0677
+2024-04-22,Direction,Ligne A,160,10,Déformation,44.3,0.0625
+2024-04-22,Suspension,Ligne C,223,3,Déformation,24.5,0.0135
+2024-04-22,Suspension,Ligne B,143,4,Aucun,19.4,0.028
+2024-04-22,Direction,Ligne B,143,5,Déformation,43.2,0.035
+2024-04-23,Suspension,Ligne A,275,10,Assemblage,44.9,0.0364
+2024-04-23,Freins,Ligne B,207,0,Aucun,20.4,0.0
+2024-04-23,Direction,Ligne B,141,6,Calibrage,27.5,0.0426
+2024-04-23,Suspension,Ligne B,232,26,Assemblage,25.7,0.1121
+2024-04-23,Moteur V6,Ligne B,114,4,Déformation,38.6,0.0351
+2024-04-23,Moteur V6,Ligne B,93,9,Calibrage,23.3,0.0968
+2024-04-24,Suspension,Ligne A,178,16,Assemblage,38.6,0.0899
+2024-04-24,Direction,Ligne C,236,3,Rayure,44.3,0.0127
+2024-04-24,Suspension,Ligne B,222,11,Rayure,23.4,0.0495
+2024-04-25,Freins,Ligne C,90,0,Aucun,19.1,0.0
+2024-04-26,Suspension,Ligne B,212,14,Rayure,34.4,0.066
+2024-04-27,Transmission,Ligne B,236,10,Rayure,28.6,0.0424
+2024-04-28,Suspension,Ligne C,166,16,Calibrage,32.4,0.0964
+2024-04-29,Direction,Ligne B,201,0,Aucun,27.9,0.0
+2024-04-30,Moteur V6,Ligne B,229,9,Aucun,34.1,0.0393
+2024-04-30,Direction,Ligne C,138,1,Calibrage,31.0,0.0072
+2024-05-01,Direction,Ligne B,117,13,Rayure,18.9,0.1111
+2024-05-02,Moteur V6,Ligne A,84,7,Déformation,29.3,0.0833
+2024-05-02,Transmission,Ligne B,208,24,Calibrage,42.9,0.1154
+2024-05-03,Moteur V6,Ligne C,115,8,Rayure,33.1,0.0696
+2024-05-04,Freins,Ligne C,176,10,Rayure,30.4,0.0568
+2024-05-05,Suspension,Ligne C,170,20,Déformation,34.5,0.1176
+2024-05-05,Transmission,Ligne B,222,9,Rayure,43.4,0.0405
+2024-05-05,Suspension,Ligne C,133,15,Déformation,31.0,0.1128
+2024-05-06,Suspension,Ligne B,111,9,Calibrage,28.3,0.0811
+2024-05-06,Suspension,Ligne A,154,1,Déformation,43.8,0.0065
+2024-05-06,Suspension,Ligne B,247,8,Assemblage,23.8,0.0324
+2024-05-07,Suspension,Ligne C,258,8,Rayure,20.9,0.031
+2024-05-08,Direction,Ligne A,142,1,Calibrage,24.1,0.007
+2024-05-08,Moteur V6,Ligne A,185,10,Assemblage,20.7,0.0541
+2024-05-08,Moteur V6,Ligne C,120,6,Assemblage,30.9,0.05
+2024-05-08,Suspension,Ligne B,153,1,Aucun,35.6,0.0065
+2024-05-08,Direction,Ligne C,265,2,Rayure,29.3,0.0075
+2024-05-08,Moteur V6,Ligne B,281,31,Rayure,43.3,0.1103
+2024-05-08,Moteur V6,Ligne A,156,18,Calibrage,20.9,0.1154
+2024-05-08,Suspension,Ligne B,244,17,Calibrage,31.3,0.0697
+2024-05-08,Direction,Ligne B,149,6,Aucun,26.9,0.0403
+2024-05-09,Freins,Ligne C,145,5,Aucun,37.9,0.0345
+2024-05-09,Direction,Ligne C,273,12,Rayure,34.5,0.044
+2024-05-10,Freins,Ligne B,211,10,Aucun,28.8,0.0474
+2024-05-10,Transmission,Ligne A,202,10,Rayure,18.2,0.0495
+2024-05-10,Transmission,Ligne B,272,17,Déformation,26.2,0.0625
+2024-05-11,Direction,Ligne A,146,11,Rayure,19.7,0.0753
+2024-05-11,Freins,Ligne B,120,6,Calibrage,42.9,0.05
+2024-05-12,Suspension,Ligne C,110,10,Déformation,27.9,0.0909
+2024-05-12,Transmission,Ligne A,202,4,Assemblage,38.2,0.0198
+2024-05-13,Suspension,Ligne B,259,30,Calibrage,39.7,0.1158
+2024-05-13,Transmission,Ligne C,273,5,Calibrage,30.1,0.0183
+2024-05-14,Suspension,Ligne A,224,3,Aucun,40.4,0.0134
+2024-05-15,Transmission,Ligne C,217,4,Rayure,26.9,0.0184
+2024-05-16,Freins,Ligne A,254,6,Calibrage,31.2,0.0236
+2024-05-17,Freins,Ligne A,196,4,Calibrage,29.2,0.0204
+2024-05-18,Moteur V6,Ligne C,198,21,Déformation,37.5,0.1061
+2024-05-18,Suspension,Ligne A,270,13,Calibrage,20.0,0.0481
+2024-05-18,Suspension,Ligne C,96,8,Aucun,43.2,0.0833
+2024-05-18,Freins,Ligne A,153,13,Rayure,38.8,0.085
+2024-05-19,Freins,Ligne B,177,14,Assemblage,28.1,0.0791
+2024-05-20,Direction,Ligne A,247,27,Déformation,21.2,0.1093
+2024-05-21,Freins,Ligne C,112,11,Rayure,40.5,0.0982
+2024-05-21,Suspension,Ligne B,252,23,Calibrage,29.5,0.0913
+2024-05-21,Transmission,Ligne A,197,11,Rayure,25.4,0.0558
+2024-05-22,Moteur V6,Ligne A,287,26,Calibrage,38.7,0.0906
+2024-05-22,Transmission,Ligne A,97,1,Calibrage,18.9,0.0103
+2024-05-23,Moteur V6,Ligne A,269,2,Assemblage,29.9,0.0074
+2024-05-24,Transmission,Ligne A,115,8,Déformation,24.3,0.0696
+2024-05-25,Direction,Ligne B,227,19,Déformation,24.4,0.0837
+2024-05-25,Direction,Ligne A,185,9,Déformation,19.6,0.0486
+2024-05-26,Transmission,Ligne C,253,13,Calibrage,31.4,0.0514
+2024-05-26,Freins,Ligne C,161,13,Assemblage,22.0,0.0807
+2024-05-26,Transmission,Ligne C,201,7,Rayure,26.1,0.0348
+2024-05-27,Transmission,Ligne B,94,8,Assemblage,44.1,0.0851
+2024-05-28,Direction,Ligne A,179,7,Déformation,23.5,0.0391
+2024-05-29,Moteur V6,Ligne B,296,23,Aucun,32.5,0.0777
+2024-05-29,Moteur V6,Ligne B,176,21,Calibrage,34.3,0.1193
+2024-05-29,Transmission,Ligne C,265,13,Assemblage,23.6,0.0491
+2024-05-29,Suspension,Ligne A,134,6,Aucun,38.2,0.0448
+2024-05-29,Transmission,Ligne C,234,22,Rayure,28.7,0.094
+2024-05-29,Direction,Ligne B,278,18,Assemblage,30.6,0.0647
+2024-05-30,Suspension,Ligne B,146,11,Calibrage,41.8,0.0753
+2024-05-30,Moteur V6,Ligne C,200,24,Déformation,42.7,0.12
+2024-05-30,Suspension,Ligne B,91,9,Rayure,38.0,0.0989
+2024-05-30,Suspension,Ligne C,229,18,Assemblage,26.0,0.0786
+2024-05-30,Suspension,Ligne A,177,18,Rayure,31.5,0.1017
+2024-05-31,Suspension,Ligne B,275,31,Assemblage,30.4,0.1127
+2024-06-01,Suspension,Ligne A,115,11,Calibrage,31.2,0.0957
+2024-06-02,Moteur V6,Ligne C,88,1,Aucun,38.6,0.0114
+2024-06-02,Transmission,Ligne C,139,2,Rayure,18.2,0.0144
+2024-06-03,Freins,Ligne B,95,9,Calibrage,42.6,0.0947
+2024-06-04,Freins,Ligne A,81,8,Calibrage,29.1,0.0988
+2024-06-04,Direction,Ligne C,150,17,Déformation,18.5,0.1133
+2024-06-05,Freins,Ligne A,107,1,Calibrage,22.0,0.0093
+2024-06-05,Direction,Ligne C,144,11,Déformation,39.5,0.0764
+2024-06-05,Suspension,Ligne B,197,18,Rayure,44.7,0.0914
+2024-06-05,Suspension,Ligne C,291,5,Aucun,20.5,0.0172
+2024-06-05,Freins,Ligne C,201,1,Aucun,37.0,0.005
+2024-06-05,Freins,Ligne B,245,25,Déformation,33.3,0.102
+2024-06-05,Direction,Ligne A,138,6,Calibrage,30.8,0.0435
+2024-06-05,Moteur V6,Ligne C,151,17,Calibrage,35.8,0.1126
+2024-06-05,Suspension,Ligne A,133,4,Assemblage,43.1,0.0301
+2024-06-05,Transmission,Ligne C,141,12,Calibrage,27.0,0.0851
+2024-06-06,Transmission,Ligne C,265,5,Calibrage,38.1,0.0189
+2024-06-06,Moteur V6,Ligne A,191,7,Aucun,27.2,0.0366
+2024-06-07,Direction,Ligne B,278,20,Aucun,35.1,0.0719
+2024-06-07,Freins,Ligne A,171,17,Assemblage,29.7,0.0994
+2024-06-08,Direction,Ligne C,177,2,Calibrage,26.0,0.0113
+2024-06-08,Moteur V6,Ligne A,148,4,Assemblage,37.2,0.027
+2024-06-09,Transmission,Ligne C,179,10,Déformation,20.9,0.0559
+2024-06-09,Suspension,Ligne B,172,8,Aucun,21.6,0.0465
+2024-06-09,Freins,Ligne B,222,17,Calibrage,29.0,0.0766
+2024-06-09,Moteur V6,Ligne B,221,2,Calibrage,34.1,0.009
+2024-06-09,Freins,Ligne A,154,13,Assemblage,39.0,0.0844
+2024-06-10,Direction,Ligne A,226,16,Rayure,36.5,0.0708
+2024-06-10,Transmission,Ligne B,157,8,Assemblage,21.9,0.051
+2024-06-10,Freins,Ligne B,187,9,Assemblage,39.1,0.0481
+2024-06-10,Suspension,Ligne A,264,31,Calibrage,34.7,0.1174
+2024-06-10,Moteur V6,Ligne A,157,0,Aucun,43.6,0.0
+2024-06-10,Direction,Ligne B,285,21,Assemblage,27.0,0.0737
+2024-06-11,Direction,Ligne A,156,10,Calibrage,43.6,0.0641
+2024-06-11,Freins,Ligne B,125,12,Déformation,25.9,0.096
+2024-06-12,Freins,Ligne C,280,15,Déformation,28.2,0.0536
+2024-06-12,Suspension,Ligne A,224,6,Calibrage,44.9,0.0268
+2024-06-12,Direction,Ligne A,266,29,Rayure,29.8,0.109
+2024-06-12,Moteur V6,Ligne B,252,15,Rayure,35.1,0.0595
+2024-06-12,Suspension,Ligne C,119,11,Assemblage,39.3,0.0924
+2024-06-12,Freins,Ligne C,202,18,Assemblage,32.4,0.0891
+2024-06-13,Freins,Ligne C,89,5,Calibrage,34.0,0.0562
+2024-06-13,Moteur V6,Ligne A,248,21,Déformation,22.5,0.0847
+2024-06-14,Moteur V6,Ligne C,245,21,Assemblage,44.1,0.0857
+2024-06-14,Freins,Ligne A,82,1,Déformation,24.0,0.0122
+2024-06-15,Direction,Ligne C,228,22,Calibrage,24.0,0.0965
+2024-06-15,Freins,Ligne B,277,32,Rayure,27.3,0.1155
+2024-06-15,Freins,Ligne A,155,13,Aucun,21.1,0.0839
+2024-06-16,Transmission,Ligne B,159,10,Assemblage,39.2,0.0629
+2024-06-17,Freins,Ligne B,201,3,Assemblage,37.5,0.0149
+2024-06-17,Suspension,Ligne A,156,1,Aucun,18.6,0.0064
+2024-06-17,Moteur V6,Ligne C,284,10,Rayure,31.9,0.0352
+2024-06-18,Transmission,Ligne B,223,13,Assemblage,24.3,0.0583
+2024-06-18,Transmission,Ligne A,243,21,Assemblage,28.7,0.0864
+2024-06-19,Direction,Ligne A,195,18,Assemblage,28.5,0.0923
+2024-06-20,Transmission,Ligne A,151,2,Calibrage,20.7,0.0132
+2024-06-21,Transmission,Ligne B,163,6,Assemblage,21.1,0.0368
+2024-06-22,Freins,Ligne C,243,10,Calibrage,28.5,0.0412
+2024-06-22,Direction,Ligne A,169,11,Assemblage,34.7,0.0651
+2024-06-23,Suspension,Ligne C,231,2,Rayure,26.5,0.0087
+2024-06-23,Suspension,Ligne A,126,11,Rayure,31.8,0.0873
+2024-06-23,Direction,Ligne A,227,12,Assemblage,23.0,0.0529
+2024-06-24,Direction,Ligne C,245,29,Rayure,33.0,0.1184
+2024-06-24,Suspension,Ligne A,127,10,Assemblage,34.7,0.0787
+2024-06-24,Moteur V6,Ligne B,114,3,Assemblage,44.0,0.0263
+2024-06-25,Freins,Ligne B,255,15,Assemblage,37.2,0.0588
+2024-06-25,Freins,Ligne A,101,9,Aucun,39.5,0.0891
+2024-06-25,Suspension,Ligne A,150,7,Calibrage,25.8,0.0467
+2024-06-25,Direction,Ligne C,277,31,Calibrage,31.8,0.1119
+2024-06-26,Moteur V6,Ligne B,278,23,Calibrage,40.2,0.0827
+2024-06-26,Freins,Ligne C,135,13,Aucun,37.9,0.0963
+2024-06-27,Transmission,Ligne B,88,7,Déformation,27.4,0.0795
+2024-06-27,Freins,Ligne A,278,15,Rayure,39.9,0.054
+2024-06-28,Suspension,Ligne C,236,20,Assemblage,22.5,0.0847
+2024-06-28,Transmission,Ligne A,286,3,Calibrage,27.5,0.0105
+2024-06-28,Direction,Ligne C,123,5,Déformation,25.8,0.0407
+2024-06-28,Direction,Ligne C,288,6,Rayure,44.0,0.0208
+2024-06-28,Moteur V6,Ligne B,247,4,Rayure,24.7,0.0162
+2024-06-29,Suspension,Ligne A,274,25,Assemblage,21.8,0.0912
+2024-06-30,Suspension,Ligne C,186,12,Assemblage,20.0,0.0645
+2024-06-30,Freins,Ligne C,271,17,Déformation,30.3,0.0627
+2024-06-30,Suspension,Ligne C,80,1,Assemblage,35.1,0.0125
+2024-07-01,Suspension,Ligne A,283,25,Rayure,44.1,0.0883
+2024-07-01,Freins,Ligne B,162,9,Déformation,32.8,0.0556
+2024-07-01,Direction,Ligne B,281,21,Aucun,19.2,0.0747
+2024-07-02,Freins,Ligne A,111,13,Rayure,29.9,0.1171
+2024-07-02,Freins,Ligne A,256,29,Rayure,41.8,0.1133
+2024-07-02,Transmission,Ligne B,103,10,Déformation,24.8,0.0971
+2024-07-02,Transmission,Ligne A,181,20,Déformation,37.6,0.1105
+2024-07-02,Freins,Ligne C,103,11,Aucun,18.0,0.1068
+2024-07-02,Moteur V6,Ligne A,231,7,Calibrage,36.4,0.0303
+2024-07-02,Moteur V6,Ligne C,167,3,Assemblage,36.7,0.018
+2024-07-02,Moteur V6,Ligne A,178,2,Aucun,20.8,0.0112
+2024-07-02,Suspension,Ligne A,177,4,Rayure,19.8,0.0226
+2024-07-03,Moteur V6,Ligne C,246,5,Assemblage,27.5,0.0203
+2024-07-03,Transmission,Ligne B,237,21,Assemblage,41.2,0.0886
+2024-07-03,Moteur V6,Ligne A,272,7,Calibrage,37.7,0.0257
+2024-07-03,Freins,Ligne B,282,8,Rayure,25.5,0.0284
+2024-07-03,Transmission,Ligne C,233,19,Calibrage,25.7,0.0815
+2024-07-04,Moteur V6,Ligne C,157,6,Calibrage,34.4,0.0382
